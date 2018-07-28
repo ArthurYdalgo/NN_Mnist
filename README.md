@@ -28,7 +28,7 @@ In order to save time and not train the network every time you open the program,
 layers, etc...), in order to keep things clear, I'm using the current "labeling" system:
 '3lX_Y' -> the used network has 3 layes, being 784 fixed nodes in the input layer, X represents the amount of nodes in the
 hidden layer, and Y the accuracy of the network (merely for keep things easier to find).
-All the 3 generated files have this label as name, with varying extensions.
+All the 3 generated files have this label as their names, with varying extensions.
 
 # Restore (Restaurar)
 In order to save time and not train the network every time you open the program, restore it...
